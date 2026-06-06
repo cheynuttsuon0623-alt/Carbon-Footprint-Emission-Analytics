@@ -12,3 +12,6 @@ torch==2.12.0
 torchaudio==2.11.0
 torchvision==0.27.0
 typing_extensions==4.15.0
+joblib
+pandas
+scikit-learn
